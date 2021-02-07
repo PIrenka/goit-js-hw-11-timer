@@ -26,10 +26,11 @@ body {
   text-align: center;
   font-weight: 700px;
   font-size: 40px;
-
-  /* // background-image: url('./images/flowers.jpg'); */
 }
+
 .title {
+  margin: 20px 0;
+
   text-align: center;
   color: rgba(127, 117, 253, 0.76);
   position: relative;
@@ -37,8 +38,8 @@ body {
 }
 .image {
   position: absolute;
-  left: 38%;
-  top: 10%;
+  left: 30%;
+  top: 25px;
 }
 section {
   padding-left: 600px;
