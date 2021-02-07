@@ -36,9 +36,9 @@ body {
   position: relative;
   font-size: 40px;
 }
-.image {
+.title-image {
   position: absolute;
-  left: 30%;
+  left: 35%;
   top: 25px;
 }
 section {
